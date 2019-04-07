@@ -1,0 +1,1 @@
+The repository contains the assignments of a computer graphics course. Four of them use openGL pipeline and 2 use raytracing. Specific description of the assignments follows in specific folders. In general they focus on implementations of different shapes, shading methods and movements. The openGL part takes use of the qt framework. 
