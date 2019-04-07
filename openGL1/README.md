@@ -1,1 +1,1 @@
-Simple shapes (cube, triangle). 
+Simple shapes (cube, triangle). To run use qmake to generate makefile and then make to generate the application.

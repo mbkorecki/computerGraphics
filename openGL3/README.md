@@ -1,1 +1,1 @@
-An implementation of wave motion and shading and rotation for different shapes and models. 
+An implementation of wave motion and shading and rotation for different shapes and models. To run use qmake to generate makefile and then make to generate the application.

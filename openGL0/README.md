@@ -1,1 +1,1 @@
-A triangle.
+A triangle.To run use qmake to generate makefile and then make to generate the application.
