@@ -1,0 +1,1 @@
+An extended raytracer including textures and allowing for rotations. To run mkdir build, cmake .. and run ./ray with the scene file as an argument. 
